@@ -4,6 +4,7 @@ body{
   font-family: 'Public Sans', sans-serif;
   font-size: 18px;
   font-weight: 400;
+  color: hsl(233, 26%, 24%);
 }
 h1,h2,h3,h4{
   font-weight: 300;
@@ -74,6 +75,13 @@ header div{
   z-index: 1;
   width: 51%;
   right: 0;
+}
+h2{
+  margin: 30px 0;
+  font-size: 30px;
+}
+h1{
+  font-size: 70px;
 }
 /*Main content of the page*/
 main{
@@ -171,6 +179,9 @@ header{
   height: auto;
   padding: 10%;
   overflow: hidden;
+}
+h1{
+  font-size: 40px;
 }
 header div{
   width: 100%;
