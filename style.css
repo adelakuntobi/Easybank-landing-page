@@ -183,8 +183,7 @@ header div{
   overflow: hidden;
 }
 #pattern{
-  position: absolute;
-  z-index: 1;
+  display: block;
   width: 100%;
   right: 0;
   top: -100px;
